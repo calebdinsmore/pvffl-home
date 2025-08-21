@@ -2,6 +2,8 @@
 {"dg-publish":true,"dg-path":"Teams/@LoriH 🏆.md","permalink":"/teams/lori-h/"}
 ---
 
+# @LoriH
+--- 
 # Trophy Case
 ![LeagueChamp64.png](/img/user/z_Assets/img/LeagueChamp64.png)
 <mark class="yellow mark-border">2024 Prairie View North Champion</mark>

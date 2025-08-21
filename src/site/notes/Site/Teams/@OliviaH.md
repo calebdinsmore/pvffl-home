@@ -2,6 +2,8 @@
 {"dg-publish":true,"dg-path":"Teams/@OliviaH.md","permalink":"/teams/olivia-h/"}
 ---
 
+# @OliviaH
+--- 
 # Trophy Case
 
 ![SilverMedal.png](/img/user/z_Assets/img/SilverMedal.png)

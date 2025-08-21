@@ -2,6 +2,8 @@
 {"dg-publish":true,"dg-path":"Teams/@BrianH.md","permalink":"/teams/brian-h/"}
 ---
 
+# @BrianH
+--- 
 # Trophy Case
 ![404.png](/img/user/z_Assets/img/404.png)
 # Season Statistics

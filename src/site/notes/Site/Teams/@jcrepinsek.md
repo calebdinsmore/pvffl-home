@@ -2,6 +2,8 @@
 {"dg-publish":true,"dg-path":"Teams/@jcrepinsek.md","permalink":"/teams/jcrepinsek/"}
 ---
 
+# @jcrepinsek
+--- 
 # Trophy Case
 
 ![BronzeMedal.png](/img/user/z_Assets/img/BronzeMedal.png)

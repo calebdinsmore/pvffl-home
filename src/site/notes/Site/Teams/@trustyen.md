@@ -2,6 +2,8 @@
 {"dg-publish":true,"dg-path":"Teams/@trustyen.md","permalink":"/teams/trustyen/"}
 ---
 
+# @trustyen
+--- 
 # Trophy Case
 
 ![BronzeMedal.png](/img/user/z_Assets/img/BronzeMedal.png)
