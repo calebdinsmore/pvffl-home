@@ -8,7 +8,11 @@
 # Article I – Commissioner
 ## Section 1 – Responsibilities
 
-The Commissioner of the Prairie View Fantasy Football League (“PVFFL”) will be responsible for running the day-to-day operations of the PVFFL and ensuring a smooth, fair, and fun league experience.
+The Commissioner of the Prairie View Fantasy Football League (“PVFFL”) is responsible for running the day-to-day operations of the PVFFL and ensuring a smooth, fair, and fun league experience.
+
+The Commissioner also oversees trading and determines whether trades should be overturned, unless the Commissioner is party to the trade.
+
+---
 # Article II – Trading
 ## Section 1 – Trade Review
 
@@ -24,12 +28,10 @@ However, there are some cases in which a trade may be overturned. The two causes
 
 Collusion is defined as:
 > The coordinated actions of two or more owners with the intention of affecting the outcome of a game, the season, or the league in some way.
-
-An example of collusion is if one owner A had given up hope of winning the season and wanted another owner B to win. Owner A could then propose a trade offering a highly valued player in exchange for a significantly less valuable player or players.
-
-Another example of collusion would be two owners agreeing to trade players in coordination with those players’ bye weeks with the intention to trade them back after the bye weeks had passed.
-
----
+> 
+> An example of collusion is if one owner A had given up hope of winning the season and wanted another owner B to win. Owner A could then propose a trade offering a highly valued player in exchange for a significantly less valuable player or players.
+> 
+> Another example of collusion would be two owners agreeing to trade players in coordination with those players’ bye weeks with the intention to trade them back after the bye weeks had passed.
 
 These types of trades break the spirit of the game and hurt the experience, so they will not be tolerated.
 
@@ -40,8 +42,9 @@ Once the owners involved in the trade have made a defense for why the trade shou
 If the Commissioner is party to the trade, instead a vote may be held. If at least half of the league is in favor of overturning, the trade must be overturned.
 ## Section 3 – Deadline
 
-The deadline for trading is Week 10 of the regular season. After this point trading is locked and teams may only augment rosters via the waiver wire.
+The deadline for trading is Week 11 of the regular season. After this point trading is locked and teams may only augment rosters via the waiver wire.
 
+---
 # Article III – Playoffs
 ## Section 1 – Seeding for 10- and 12-team Leagues
 
@@ -55,13 +58,13 @@ Record ties will be broken by points-scored over the regular season.
 [^1]: League Median is defined in Section 3 of this Article.
 ## Section 2 – Seeding for 8-team Leagues
 
-8-team leagues will implement a four-team playoff bracket, decided as follows:
-- 1st Seed-5th Seed: Top-five teams by regular season record, with ties broken using Points-For.
-- 6th Seed: Wild card. Best record against the League Median among remaining teams
+8-team leagues implement a four-team playoff bracket, decided as follows:
+- 1st Seed-3rd Seed: Top-three teams by regular season record, with ties broken using Points-For.
+- 4th Seed: Wild card. Best record against the League Median among remaining teams
 ## Section 3 – The League Median
 
 **Definition:** 
-> The League Median is calculated by taking the average of the middle two teams’ scores for a given week. For example, if in one week the 6th highest-scoring team scored 178.54 points and the 7th highest-scoring team scored 170.48 points, the League Median for that week would be 174.51.
+> The League Median is calculated by taking the average of the middle two teams’ scores for a given week. For example, if in one week (in a 12-team league) the 6th highest-scoring team scored 200 points and the 7th highest-scoring team scored 100 points, the League Median for that week would be 150.
 
 During the regular season, each team’s score will be compared to the League Median in an “extra matchup” of sorts, and the Commissioner will be responsible for recording and publishing those results. In this league, those results are tracked automatically at https://app.pvffl.com.
 
@@ -70,9 +73,29 @@ At the end of the season, the LM seed will be determined by ranking unseeded tea
 - Wins against the League Median
 - Points For
 - Coin flip
-# Article IV – Draft Order
+## Section 4 – The Grand Championship
+
+![ChampTrophy128.png|center](/img/user/z_Assets/img/ChampTrophy128.png)
+
+The PVFFL has a single perpetual championship trophy, awarded each season to the Grand Champion.
+
+In seasons where the PVFFL runs only a single league, the Grand Champion is the owner who wins the championship game in the postseason.
+
+In seasons where the PVFFL runs more than one league, the Grand Champion is the owner who (1) wins the championship game in the postseason for their league, and (2) scores the most points among league champions.
+
+All league champions receive a trophy, but only the Grand Champion gets their name on the PVFFL trophy.
+
+---
+# Article IV – The Draft
+
+## Section 1 – Determination
 
 As this is a redraft league, draft order each year is determined randomly by drawing from a cup.
+## Section 2 – Procedure
+
+Drafts are done in person as a snake draft.
+
+---
 # Article V – Waivers 
 
 ## Section 1 – Waiver Type
@@ -97,6 +120,8 @@ Waivers clear every day at 3am US/Eastern when applicable.
 
 > [!Question] Why?
 > Midweek news/injury reports trickle in throughout the week, and owners who are more able to instantly react to news by claiming players when news breaks have a distinct advantage over owners who are less connected during the work day. Daily waivers ensures that all owners have an equal shot at claiming players that are suddenly valuable.
+
+---
 # Article VI – Scoring Configuration
 
 ## Section 1 - Passing
@@ -160,6 +185,8 @@ Waivers clear every day at 3am US/Eastern when applicable.
 | Special Teams TD              | +6    |
 | Special Teams Forced Fumble   | +1    |
 | Special Teams Fumble Recovery | +1    |
+
+---
 # Article VII – Roster Configuration
 
 ## Section 1 – 🤷
