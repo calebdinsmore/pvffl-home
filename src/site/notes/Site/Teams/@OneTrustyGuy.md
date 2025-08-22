@@ -2,6 +2,8 @@
 {"dg-publish":true,"dg-path":"Teams/@OneTrustyGuy.md","permalink":"/teams/one-trusty-guy/"}
 ---
 
+# @OneTrustyGuy
+--- 
 # Trophy Case
 ![404.png](/img/user/z_Assets/img/404.png)
 # Season Statistics

@@ -2,6 +2,8 @@
 {"dg-publish":true,"dg-path":"Teams/@kPaterso.md","permalink":"/teams/k-paterso/"}
 ---
 
+# @kPaterso
+--- 
 # Trophy Case
 
 ![SilverMedal.png](/img/user/z_Assets/img/SilverMedal.png)

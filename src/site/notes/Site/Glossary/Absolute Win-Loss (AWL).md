@@ -2,6 +2,8 @@
 {"dg-publish":true,"dg-path":"Glossary/Absolute Win-Loss (AWL).md","permalink":"/glossary/absolute-win-loss-awl/"}
 ---
 
+# Absolute Win/Loss
+
 This is the win/loss record you would have if you played every other team every week.
 
 So for example:

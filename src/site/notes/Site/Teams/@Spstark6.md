@@ -2,6 +2,8 @@
 {"dg-publish":true,"dg-path":"Teams/@Spstark6.md","permalink":"/teams/spstark6/"}
 ---
 
+# @Spstark6
+--- 
 # Trophy Case
 
 ![SilverMedal.png](/img/user/z_Assets/img/SilverMedal.png)

@@ -2,6 +2,8 @@
 {"dg-publish":true,"dg-path":"Teams/@cardkid2331.md","permalink":"/teams/cardkid2331/"}
 ---
 
+# @cardkid2331
+--- 
 # Trophy Case
 ![BronzeMedal.png](/img/user/z_Assets/img/BronzeMedal.png)
 <mark class="orange mark-default">2024 Prairie View South 3rd Place Finisher</mark>

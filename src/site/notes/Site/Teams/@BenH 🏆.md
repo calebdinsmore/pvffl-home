@@ -2,6 +2,8 @@
 {"dg-publish":true,"dg-path":"Teams/@BenH 🏆.md","permalink":"/teams/ben-h/"}
 ---
 
+# @BenH
+---
 # Trophy Case
 
 ![ChampTrophy128.png](/img/user/z_Assets/img/ChampTrophy128.png)
