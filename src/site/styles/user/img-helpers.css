@@ -1,0 +1,77 @@
+table {
+  width: auto;
+  display: table;
+}
+
+.grid span.image-embed[alt*="."],
+span[alt*="grid"] {
+  display: table-cell;
+  vertical-align: middle;
+  padding: 3px;
+}
+
+img[alt*="grid"],
+.grid img[alt*="."] {
+  max-height: 30vh;
+}
+
+/* Floating Images */
+img[alt*="left"] {
+  float: left;
+  clear: left;
+  margin-right: 1rem;
+  margin-bottom: 4px;
+  margin-top: 4px;
+}
+
+img[alt*="right"] {
+  float: right;
+  clear: right;
+  margin-left: 1rem;
+  margin-bottom: 4px;
+  margin-top: 4px;
+}
+img[alt*="center"],
+img[alt*="centre"] {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 4px;
+  margin-top: 4px;
+}
+
+.lightbox {
+  position: fixed;
+  inset: 0;
+  display: none;
+  place-items: center;
+  background: rgba(0, 0, 0, 0.85);
+  z-index: 9999;
+  padding: 2rem;
+  cursor: zoom-out;
+  touch-action: none; /* helps with long-press/pointer events */
+}
+.lightbox.open {
+  display: grid;
+}
+
+.lightbox img {
+  max-width: calc(100vw - 4rem);
+  max-height: calc(100vh - 4rem);
+  box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.5);
+  cursor: auto;
+  transition: transform 0.18s ease;
+  transform-origin: var(--ox, 50%) var(--oy, 50%);
+  /* default zoom level: tweak as needed */
+  --zoom: 2;
+}
+
+/* Hover zoom (desktop) */
+.lightbox img:hover {
+  transform: scale(var(--zoom));
+}
+
+/* Programmatic zoom (touch long-press) */
+.lightbox img.zoomed {
+  transform: scale(var(--zoom));
+}

@@ -93,4 +93,95 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
     {% endfor %}
     {%include "components/lucideIcons.njk"%}
   </body>
+  <script>
+  (() => {
+    const overlay = document.createElement('div');
+    overlay.className = 'lightbox';
+    const full = document.createElement('img');
+    full.alt = '';
+    overlay.append(full);
+    document.body.append(overlay);
+
+    // Close when clicking the backdrop
+    overlay.addEventListener('click', (e) => {
+      if (e.target === overlay) overlay.classList.remove('open');
+    });
+
+    // Open for any IMG on page
+    document.addEventListener('click', (e) => {
+      const t = e.target;
+      if (t instanceof HTMLImageElement && !overlay.contains(t)) {
+        e.preventDefault?.(); // stop <a><img></a> navigation
+        full.src = t.dataset.full || t.currentSrc || t.src;
+        full.alt = t.alt || '';
+        overlay.classList.add('open');
+        full.classList.remove('zoomed');
+      }
+    });
+
+    // ESC to close
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') overlay.classList.remove('open');
+    });
+
+    // Prevent context menu on long-press (iOS/Safari)
+    full.addEventListener('contextmenu', (e) => e.preventDefault());
+
+    // Update transform-origin to where the pointer is (nice targeted zoom)
+    function setOriginFromEvent(img, e) {
+      const rect = img.getBoundingClientRect();
+      const x = ('clientX' in e) ? e.clientX : (e.touches?.[0]?.clientX ?? rect.left + rect.width/2);
+      const y = ('clientY' in e) ? e.clientY : (e.touches?.[0]?.clientY ?? rect.top + rect.height/2);
+      const ox = ((x - rect.left) / rect.width) * 100;
+      const oy = ((y - rect.top) / rect.height) * 100;
+      img.style.setProperty('--ox', ox + '%');
+      img.style.setProperty('--oy', oy + '%');
+    }
+
+    // Desktop: move origin as mouse moves
+    full.addEventListener('mousemove', (e) => setOriginFromEvent(full, e));
+
+    // Touch: long-press to zoom while held
+    let pressTimer = null;
+    let pressed = false;
+    const LONG_PRESS_MS = 300;
+    const MOVE_TOL = 8;
+    let startX = 0, startY = 0;
+
+    function clearPress() {
+      if (pressTimer) { clearTimeout(pressTimer); pressTimer = null; }
+    }
+
+    full.addEventListener('pointerdown', (e) => {
+      if (e.pointerType === 'mouse') return; // mouse uses hover
+      pressed = true;
+      startX = e.clientX; startY = e.clientY;
+      setOriginFromEvent(full, e);
+      clearPress();
+      pressTimer = setTimeout(() => {
+        if (pressed) full.classList.add('zoomed');
+      }, LONG_PRESS_MS);
+    }, { passive: true });
+
+    full.addEventListener('pointermove', (e) => {
+      if (!pressed) return;
+      // cancel long-press if user moves too far (to avoid accidental zoom)
+      if (Math.hypot(e.clientX - startX, e.clientY - startY) > MOVE_TOL) {
+        pressed = false;
+        clearPress();
+        full.classList.remove('zoomed');
+        return;
+      }
+      setOriginFromEvent(full, e);
+    }, { passive: true });
+
+    function endPress() {
+      pressed = false;
+      clearPress();
+      full.classList.remove('zoomed');
+    }
+    full.addEventListener('pointerup', endPress, { passive: true });
+    full.addEventListener('pointercancel', endPress, { passive: true });
+  })();
+  </script>
 </html>
