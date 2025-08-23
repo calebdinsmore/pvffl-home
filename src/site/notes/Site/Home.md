@@ -14,8 +14,13 @@
 
 Fantasy football is BACK! And with it, a completely revamped newsletter. There's a few housekeeping things to cover, and then a look at the draft, so let's jump into it–this one's a doozy.
 
+
 </div></div>
 
 
-[League Median App](https://app.pvffl.com)
+# Live League Median App
+
+If you're not familiar, the primary function of this app is so league members can see the league median in real-time (as it has bearing on the [[Site/Misc/PVFFL League Constitution#Section 3 – The League Median\|wild card playoff seed]]). It also automatically calculates current playoff seeding–but not as a forecast tool; it merely says who would get which seed *if the playoffs were seeded today.*
+
+**[Click here if on mobile to go to the full site–it's a better experience](https://app.pvffl.com)**
 <iframe src="https://app.pvffl.com/" style="width: 100%; height:800px" />
