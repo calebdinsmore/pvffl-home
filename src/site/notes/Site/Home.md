@@ -14,7 +14,6 @@
 
 Fantasy football is BACK! And with it, a completely revamped newsletter. There's a few housekeeping things to cover, and then a look at the draft, so let's jump into it–this one's a doozy.
 
-
 </div></div>
 
 
