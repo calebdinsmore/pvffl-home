@@ -12,7 +12,7 @@
 
 # 2025 Week 5 Newsletter
 
-> [!warning] BYE Week are Upon Us!
+> [!warning] BYE Weeks Are Upon Us!
 > 
 > Fix your lineups! In my dynasty league I manually fix lineups to make sure everyone's fielding a legal starting lineup, and if I do it more than once the team suffers penalties to their draft position the following year. Best weapon I have in this league is shame, so I *will* shame you if I have to do it.
 
