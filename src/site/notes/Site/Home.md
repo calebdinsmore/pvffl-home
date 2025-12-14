@@ -4,21 +4,20 @@
 
 # Latest Newsletter
 
-**[[Site/Newsletters/10.03.2025 - Week 5 Newsletter\|Go to Newsletter]]**
+**[[Site/Newsletters/12.14.2025 - Week 15 Newsletter\|Go to Newsletter]]**
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/newsletters/10-03-2025-week-5-newsletter/#2025-week-5-newsletter" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/newsletters/12-14-2025-week-15-newsletter/#week-15-newsletter-playoffs-are-set" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
-# 2025 Week 5 Newsletter
+# Week 15 Newsletter: Playoffs are Set
 
-> [!warning] BYE Weeks Are Upon Us!
+Well, that was a pretty tense MNF game for the North league. Everything came down to the second-to-last play of overtime: if Dallas Goedert didn't catch that pass, I would have made it into the playoffs and [[Site/Teams/@BenH 🏆 (Marshmallow Fluff)\|@BenH 🏆 (Marshmallow Fluff)]] would have been locked out. Crazy week!
+
+
+> [!IMPORTANT] Shame Time
 > 
-> Fix your lineups! In my dynasty league I manually fix lineups to make sure everyone's fielding a legal starting lineup, and if I do it more than once the team suffers penalties to their draft position the following year. Best weapon I have in this league is shame, so I *will* shame you if I have to do it.
-
-Well, September went by quick. 😅 Been a busy past month for me, so I've not gotten around to writing a newsletter until now. Part of it is that my tools and special spreadsheet I've been using to analyze stats and make the tables I put in the newsletters got a bit buggy after some changes to Sleeper's API.
-
-However, I've spent some time working on scripts to automate everything and even expand on the stats and tables I've put in these newsletters, meaning newsletters should take less time and I'll be able to write more of them!
+> Moment of shame for [[Site/Teams/@OneTrustyGuy\|@OneTrustyGuy]], the only playoff-bound team who hasn't set a proper team name.
 
 </div></div>
 
