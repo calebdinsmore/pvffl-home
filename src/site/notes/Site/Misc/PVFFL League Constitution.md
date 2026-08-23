@@ -65,6 +65,8 @@ Record ties will be broken by points-scored over the regular season.
 
 **Definition:** 
 > The League Median is calculated by taking the average of the middle two teams’ scores for a given week. For example, if in one week (in a 12-team league) the 6th highest-scoring team scored 200 points and the 7th highest-scoring team scored 100 points, the League Median for that week would be 150.
+> 
+> Put simply: you beat the League Median in a given week if you score among the top half of the league; otherwise, you don't.
 
 During the regular season, each team’s score will be compared to the League Median in an “extra matchup” of sorts, and the Commissioner will be responsible for recording and publishing those results. In this league, those results are tracked automatically at https://app.pvffl.com.
 
