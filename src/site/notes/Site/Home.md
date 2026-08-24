@@ -11,7 +11,7 @@
 
 # Here's to the Victors 🏆
 
-Man, what a game to end the fantasy season on. Leave it to Atlanta to dominate early and then give up their entire massive lead in the second half. \#28-3
+Man, what a game to end the fantasy season on. Leave it to Atlanta to dominate early and then give up their entire massive lead in the second half.
 
 
 </div></div>

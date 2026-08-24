@@ -13,12 +13,12 @@
 # All-Time Statistics
 |                                                | **Stat** | **Rank** |
 | ---------------------------------------------- | -------- | -------- |
-| **Regular Season Win / Loss**                  | 12-2     | #1       |
-| **Playoff Appearances**                        | 1        | #8       |
-| **Playoff Win / Loss**                         | 0-2      | #16      |
-| **Regular Season [[Site/Glossary/Absolute Win-Loss (AWL)\|Absolute Win-Loss (AWL)]]** | 60-66    | #20      |
-| **Regular Season Win %**                       | 85.7%    | #1       |
-| **Playoff Win %**                              | 0.0%     | #16      |
-| **Regular Season Absolute Win %**              | 47.6%    | #15      |
-| **Regular Season Points-For**                  | 1632.3   | #20      |
-| **Luck**                                       | 38.1%    | #1       |
+| **Regular Season Win / Loss**                  | 12-2 | #1 |
+| **Playoff Appearances**                        | 1 | #14 |
+| **Playoff Win / Loss**                         | 0-2 | #19 |
+| **Regular Season [[Site/Glossary/Absolute Win-Loss (AWL)\|Absolute Win-Loss (AWL)]]** | 60-66 | #22 |
+| **Regular Season Win %**                       | 85.7% | #1 |
+| **Playoff Win %**                              | 0.0% | #19 |
+| **Regular Season Absolute Win %**              | 47.6% | #15 |
+| **Regular Season Points-For**                  | 1632.3 | #22 |
+| **Luck**                                       | 38.1% | #1 |
