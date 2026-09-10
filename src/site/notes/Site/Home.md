@@ -11,7 +11,7 @@
 
 # We Are So Back 🎉
 
-It's finally here! The 2026 season has officially started, and I managed to get everything I needed done before we got rolling. Most of this newsletter is going to breaking down all that I did and what you need to know about the 2026 season.
+It's finally here! The 2026 season has officially started, and I managed to get everything I needed done before we got rolling. Most of this newsletter is going to be breaking down all that I did and what you need to know about the 2026 season.
 
 ---
 
