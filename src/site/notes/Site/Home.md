@@ -5,25 +5,19 @@
 # Latest Newsletter
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/newsletters/2026/09-21-2026-week-2-monday-night-miracles/#week-2-monday-night-miracles" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/newsletters/2026/09-23-2026-week-3-newsletter/#2026-week-3-newsletter" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
-# Week 2 Monday Night Miracles
+# 2026 Week 3 Newsletter
 
-…
-
-Welcome to a special mini-newsletter I hope to publish most weeks! I guess it's mini in spirit: there's still a fair bit of content here. I've just automated a bunch of it so I have to do less manual work with the number crunching.
-
-In this special newsletter, I break down each matchup that's still technically in the air (i.e. that has players left to play). Some are more in-the-air than others (sorry Kathy). There's also a section at the bottom showing each team's odds of clearing the League Median after MNF.
-
-Still to play: **NYG @ LAR**. 5 matchups across both leagues are still undecided. Let's jump in!
+Happy Wednesday, PVFFL! This is a jam-packed newsletter, with a lot of data, some of which you hopefully find interesting. As I mentioned, I'm working on automating a lot of the ad hoc stats crunching I've done over the years and make it easier to write up these newsletters. I still do the writing portions the way our ancestors did, though–with a keyboard. Let's jump in!
 
 ---
 
 </div></div>
 
-**[[Site/Newsletters/2026/09.21.2026 – Week 2 Monday Night Miracles\|Continue Reading]]**
+**[[Site/Newsletters/2026/09.23.2026 – Week 3 Newsletter\|Continue Reading]]**
 # Live League Median App
 
 If you're not familiar, the primary function of this app is so league members can see the league median in real-time (as it has bearing on the [[Site/Misc/PVFFL League Constitution#Section 3 – The League Median\|wild card playoff seed]]). It also automatically calculates current playoff seeding–but not as a forecast tool; it merely says who would get which seed *if the playoffs were seeded today.* It also automates tracking **The Mean Team**'s scoring.
