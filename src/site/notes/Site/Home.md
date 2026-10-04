@@ -5,23 +5,22 @@
 # Latest Newsletter
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/newsletters/2026/09-28-2026-week-3-monday-night-miracles/#week-3-monday-night-miracles-family-week-edition" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/newsletters/2026/09-30-2026-week-4-newsletter/#2026-week-4-newsletter" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
-# Week 3 Monday Night Miracles - Family Week Edition
+# 2026 Week 4 Newsletter
 
-Happy Monday, PVFFL! I forgot to mention it, but this week is Family Week (Part One). The schedule repeats every ten weeks (as it is a ten-team league), and in ten weeks we have Thanksgiving, which I always schedule such that family members play each other when possible.
+Another Family Week in the books! [[Site/Teams/@LoriH (Hurts Donut)\|@LoriH (Hurts Donut)]] claimed the top spot for both the week and the season so far across both leagues, scoring a whopping **180.34** points (198.74 max possible!), completely blowing out [[Site/Teams/@MarkH (Ain't we Purdy)\|@MarkH (Ain't we Purdy)]]. 
+The South Mean Team keeps up its run of domination, claiming its third straight victory, this week over [[Site/Teams/@cpence0712 (To Infinity and Bijan!)\|@cpence0712 (To Infinity and Bijan!)]].
 
-Today we're digging in once again into the not-yet-decided matchups to see where the numbers shake out.
-
-Still to play: **PHI @ CHI**. 7 matchups across both leagues are still undecided.
+New this week: a section on Family Week and current head-to-head records between the husbands and wives that compete in the PVFFL. Let's jump in!
 
 ---
 
 </div></div>
 
-**[[Site/Newsletters/2026/09.28.2026 – Week 3 Monday Night Miracles\|Continue Reading]]**
+**[[Site/Newsletters/2026/09.30.2026 – Week 4 Newsletter\|Continue Reading]]**
 # Live League Median App
 
 If you're not familiar, the primary function of this app is so league members can see the league median in real-time (as it has bearing on the [[Site/Misc/PVFFL League Constitution#Section 3 – The League Median\|wild card playoff seed]]). It also automatically calculates current playoff seeding–but not as a forecast tool; it merely says who would get which seed *if the playoffs were seeded today.* It also automates tracking **The Mean Team**'s scoring.
