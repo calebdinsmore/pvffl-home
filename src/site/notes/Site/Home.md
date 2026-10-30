@@ -5,21 +5,19 @@
 # Latest Newsletter
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/newsletters/2026/10-22-2026-week-7-newsletter/#2026-week-7-newsletter-playoff-simulation-time" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/newsletters/2026/10-28-2026-week-8-newsletter/#2026-week-8-newsletter" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
-# 2026 Week 7 Newsletter - Playoff Simulation Time!
+# 2026 Week 8 Newsletter
 
-This one's for the teams currently on the struggle bus. As I've done in previous seasons, I simulated the remainder of the season's matchups 100,000 times in an attempt to show what everyone's odds are of making the playoffs at this point.
-
-This is mainly to show that hope isn't lost if you're having a rough first half of the season! You can still pull off a playoff run if you make moves now and try to win! ~~That is, if your name isn't [[Site/Teams/@AlexW\|@AlexW]]~~
+First trade of the season, and it only took seven weeks! I'll break down that trade and dig into the usual stats below.
 
 ---
 
 </div></div>
 
-**[[Site/Newsletters/2026/10.22.2026 – Week 7 Newsletter\|Continue Reading]]**
+**[[Site/Newsletters/2026/10.28.2026 – Week 8 Newsletter\|Continue Reading]]**
 # Live League Median App
 
 If you're not familiar, the primary function of this app is so league members can see the league median in real-time (as it has bearing on the [[Site/Misc/PVFFL League Constitution#Section 3 – The League Median\|wild card playoff seed]]). It also automatically calculates current playoff seeding–but not as a forecast tool; it merely says who would get which seed *if the playoffs were seeded today.* It also automates tracking **The Mean Team**'s scoring.
