@@ -5,19 +5,23 @@
 # Latest Newsletter
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/newsletters/2026/10-28-2026-week-8-newsletter/#2026-week-8-newsletter" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/newsletters/2026/11-11-2026-week-10-newsletter/#2026-week-10-newsletter" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
-# 2026 Week 8 Newsletter
+# 2026 Week 10 Newsletter
 
-First trade of the season, and it only took seven weeks! I'll break down that trade and dig into the usual stats below.
+We're hitting double digit weeks! In just over a month we'll be getting into the playoffs and the final weeks of the fantasy season. Let's look at where things sit!
+
+> [!warning] Trade deadline is approaching!
+> 
+> The trade deadline is Week 11, so you've got a week and a few days to get trades in before things lock down in the run up to the postseason.
 
 ---
 
 </div></div>
 
-**[[Site/Newsletters/2026/10.28.2026 – Week 8 Newsletter\|Continue Reading]]**
+**[[Site/Newsletters/2026/11.11.2026 – Week 10 Newsletter\|Continue Reading]]**
 # Live League Median App
 
 If you're not familiar, the primary function of this app is so league members can see the league median in real-time (as it has bearing on the [[Site/Misc/PVFFL League Constitution#Section 3 – The League Median\|wild card playoff seed]]). It also automatically calculates current playoff seeding–but not as a forecast tool; it merely says who would get which seed *if the playoffs were seeded today.* It also automates tracking **The Mean Team**'s scoring.
